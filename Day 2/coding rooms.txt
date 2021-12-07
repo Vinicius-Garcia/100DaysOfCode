@@ -1,0 +1,44 @@
+#Adiction
+two_digit_number = input("Type a two digit number: ")
+one = int(two_digit_number[0])
+two = int(two_digit_number[1])
+
+result = one+two
+print(result)
+
+#BMI
+
+# 🚨 Don't change the code below 👇
+height = input("enter your height in m: ")
+weight = input("enter your weight in kg: ")
+# 🚨 Don't change the code above 👆
+
+#Write your code below this line 👇
+
+height1 = float(height)
+weight1 = float(weight)
+
+result = weight1 / (height1*height1)
+
+print(int(result))
+
+#Life Calculator
+
+# 🚨 Don't change the code below 👇
+age = input("What is your current age?")
+# 🚨 Don't change the code above 👆
+
+#Write your code below this line 👇
+
+age1 = int(age)
+
+days = age1 * 365
+weeks = age1 * 52
+months = age1 * 12
+
+days1 = str(32850-days)
+weeks1 = str(4680-weeks)
+months1 = str(1080-months)
+
+print("You have "+days1+" days, "+weeks1+" weeks, and "+months1+" months left.")
+

@@ -6,3 +6,5 @@
 ### Dia 1
 #####  Um projeto para manipular strings, variáveis e receber input em python.
 
+### Dia 2
+#####  Um projeto manipular e fazer conversão de tipos e valores.
