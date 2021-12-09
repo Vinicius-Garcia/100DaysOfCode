@@ -8,3 +8,6 @@
 
 ### Dia 2
 #####  Um projeto manipular e fazer conversão de tipos e valores.
+
+### Dia 3
+#####  Um projeto para utilizar condições construindo um jogo no terminal.
