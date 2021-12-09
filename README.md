@@ -7,7 +7,11 @@
 #####  Um projeto para manipular strings, variáveis e receber input em python.
 
 ### Dia 2
+<<<<<<< HEAD
 #####  Um projeto manipular e fazer conversão de tipos e valores.
 
 ### Dia 3
 #####  Um projeto para utilizar condições construindo um jogo no terminal.
+=======
+#####  Um projeto para manipular e fazer conversão de tipos e valores.
+>>>>>>> a5228efd0122fb59dea8b9fa799ef693e0a40015
